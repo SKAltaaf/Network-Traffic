@@ -2,7 +2,6 @@
 
 
 **Analyst:** Shaik Altaaf
-**Date:** 2025-10-15  
 **Tool:** Wireshark v4.x  
 **Case File:** `2024-10-23-Redline-Stealer.pcap`  
 **Source:** [Malware-Traffic-Analysis.net](https://www.malware-traffic-analysis.net/2024/10/23/index.html)
